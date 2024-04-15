@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "result_screen",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LQTam787/result_screen.git"
+  },
+  "keywords": [
+    "results"
+  ],
+  "author": "LQTam787",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LQTam787/result_screen/issues"
+  },
+  "homepage": "https://github.com/LQTam787/result_screen#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
